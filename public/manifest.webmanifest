@@ -1,7 +1,7 @@
 {
-	"name": "Astro Theme Cactus Demo",
-	"short_name": "Astro_Cactus",
-	"description": "Starter blog site for Astro",
+	"name": "Kristians Blog",
+	"short_name": "Kristians Blog",
+	"description": "A blog about development and other things, by Kristian Binau",
 	"icons": [
 		{
 			"src": "/192x192.png",
